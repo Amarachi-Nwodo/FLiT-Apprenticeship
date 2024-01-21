@@ -1,4 +1,4 @@
-#Market Basket Analysis
+##Market Basket Analysis
 
 Market Basket refers to a selection of goods and services that are consistently purchased and sold throughout an economic system. it is a data mining technique that is used by retailers to analyze the purchase behaviour of customers. This tecniques helps to identifies the relationship between different products and how they are purchased together.
 
